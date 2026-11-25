@@ -1,8 +1,8 @@
 # Hola, soy Luis Ignacio Cartes 👋
 
-**Analista CRM en Gildemeister** · Python y datos · Chile
+**Ingeniero en Informática** · Practicante CRM en Gildemeister · Python y datos · Chile
 
-Trabajo en la preparación y calidad de datos para campañas de marketing: tomo exportaciones de distintas fuentes, las
+Como practicante en el área de CRM trabajo en la preparación y calidad de datos para campañas de marketing: tomo exportaciones de distintas fuentes, las
 limpio, las cruzo contra listas de exclusión y entrego bases listas para Salesforce Marketing Cloud, con auditoría de cada
 número. Me gusta construir herramientas que reemplacen procesos manuales por procesos verificables.
 
@@ -19,5 +19,5 @@ número. Me gusta construir herramientas que reemplacen procesos manuales por pr
 |---|---|
 | **ClinicaDental** *(privado)* | Sitio web para una clínica dental real: agendamiento de citas, recordatorios, chatbot con IA y panel administrativo. FastAPI, PostgreSQL y Docker. En producción. |
 | **Bases CRM** *(privado, uso interno en Gildemeister)* | Aplicación que reemplazó un proceso ETL para armar bases de campaña Email y WhatsApp: normalización, exclusiones, deduplicación, auditoría de calidad, panel con usuarios y más de 170 pruebas automáticas. |
-| **mineria-de-datos** *(privado)* | Análisis de datos de reciclaje (EcoRuta) con Python y Jupyter. |
+| **[mineria-de-datos](https://github.com/Nacho12123/mineria-de-datos)** | Análisis de datos de reciclaje (EcoRuta) con Python y Jupyter: limpieza, exploración y minería de datos. |
 | **[Saintbit-mate](https://github.com/Nacho12123/Saintbit-mate)** | Demo web educativa de matemáticas para enseñanza básica, con gamificación y analítica. |
